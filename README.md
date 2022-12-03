@@ -1,5 +1,5 @@
-### Hi there 👋👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flsh955&count_bg=%23D5D5D5&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
+### Hi there 👋👋
 
 보이지않는 부분을 효율적으로 구현하는 것을 즐겨하며, 저의 목표 이기도 합니다.
 <br>
