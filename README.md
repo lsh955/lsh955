@@ -8,7 +8,7 @@
 
 해결해야 되는 새로운 종류의 문제를 맞이했을 때<br>
 좌절과 우울감을 극복하고<br>
-새로운 판단을 구축해 나가서 스스로  해결할 수 있도록 노력하고 있습니다.
+새로운 판단을 구축해 나가서 스스로 문제를 해결할 수 있도록 노력하고 있습니다.
 
 <!--
 **lsh955/lsh955** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
